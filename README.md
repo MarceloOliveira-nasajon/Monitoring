@@ -1,4 +1,4 @@
-# giropops-monitoring
+# Monitoring
 Full stack tools for monitoring containers and other stuff. ;)
 - Netdata
 - Prometheus
